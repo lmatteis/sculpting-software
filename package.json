@@ -1,0 +1,8 @@
+{
+  "name": "sculpting-software",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lmatteis/sculpting-software.git",
+  "author": "lmatteis <lmatteis@gmail.com>",
+  "license": "MIT"
+}
