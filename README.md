@@ -26,17 +26,17 @@ Usually we maintain and develop a system by creating an artifact which contains 
 
 We think there can be another way of developing systems that is similar to how we discuss with other humans. In this analogy we do not need to read or maintain a single artifact; rather, we can discuss with it to both (i) understand how and if it can do something and (ii) change how it does something. For instance let's take a look at this conversation between human (H) and computer (C):
 
-H: “When the driver presses the brake pedal the brake light should turn on.”
-C: “Does this apply also to when the engine is off?”
-H: “No.”
-C: “Done.”
+> H: “When the driver presses the brake pedal the brake light should turn on.”
+> C: “Does this apply also to when the engine is off?”
+> H: “No.”
+> C: “Done.”
 
 And later:
 
-H: “I saw the car rolling downhill and stopping; how did it stop?”
-C: “The driver pressed the brake pedal.”
-H: “Why didn’t the brake light go on?”
-C: “The engine was off.”
-H: “The light should have turned on anyway.”
-C: “But earlier you said no.”
-H: “Ah, right. So please remove this exception.”
+> H: “I saw the car rolling downhill and stopping; how did it stop?”
+> C: “The driver pressed the brake pedal.”
+> H: “Why didn’t the brake light go on?”
+> C: “The engine was off.”
+> H: “The light should have turned on anyway.”
+> C: “But earlier you said no.”
+> H: “Ah, right. So please remove this exception.”
